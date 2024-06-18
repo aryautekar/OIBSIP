@@ -1,5 +1,5 @@
 weight=int(input("Enter your weight in Kg: "))
-print("\n Please Select and option for entering height: ")
+print("\n Please Select an option for entering height: ")
 print("Option 1. Centimeter")
 print("Option 2. Feet \n")
 
